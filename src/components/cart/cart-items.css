@@ -1,0 +1,14 @@
+.cart-item{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.cart-items__icon{
+    cursor: pointer;
+}
+
+.divider{
+    margin: 10px 0 10px;
+    opacity: 0.2;
+}

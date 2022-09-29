@@ -1,0 +1,25 @@
+.dropdown{
+    text-align: left;
+    outline: none;
+    width: 200px;
+    min-height: auto;
+    position: absolute;
+    top: 120%;
+    left: -60%;
+    background: #2B2E2F;
+    font-size: 14px;
+    border-radius: 10px;
+}
+
+.dropdown p{
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+.dropdown__icon{
+    margin-right: 3px;
+}
